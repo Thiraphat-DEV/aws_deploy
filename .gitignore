@@ -1,0 +1,8 @@
+.env
+node_modules/
+node_modules/*
+attractions12.sql
+*.sql
+package.json
+package-lock.json
+*.json
